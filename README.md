@@ -1,6 +1,6 @@
 # Vipul V Singh
 
-f(x) = e^x
+$f(x) = e^{x}$
 
 Second-year Computer Engineering student. Open to internships.
 
