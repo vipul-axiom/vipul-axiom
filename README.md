@@ -8,6 +8,6 @@ Projects: [c-tools](https://github.com/vipul-axiom/c-tools) - small C command-li
 
 Currently learning: process control in C (fork/exec), linked lists
 
-Next up: pipes (|) in vsh
+Recently added: pipes (|) in vsh
 
 Contact: [x.com/vipulsolo](https://x.com/vipulsolo)
